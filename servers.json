@@ -2,5 +2,21 @@
   {
     "NameOverride": "Balap Liar-ID",
     "HostName": "51.79.169.164:1551"
-  }
+  },
+  {
+    "NameOverride": "Balap Liar-Tourname #1",
+    "HostName": "51.79.169.164:1511"
+  },
+  {
+    "NameOverride": "Balap Liar-Tournament #2",
+    "HostName": "51.79.169.164:1521"
+  },
+  {
+    "NameOverride": "Balap Liar-Tournament #3",
+    "HostName": "51.79.169.164:1531"
+  },
+  {
+    "NameOverride": "Balap Liar-Tournament #4",
+    "HostName": "51.79.169.164:1541"
+  },
 ]
